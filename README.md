@@ -16,6 +16,8 @@ gephi	      https://gephi.org/users/download/
 
 gitHub	    https://desktop.github.com/ 
 
+mapinstall  https://www8.garmin.com/support/download_details.jsp?id=3291    
+
 r	          https://cran.r-project.org/bin/windows/base/ 
 
 rstudio 	  https://rstudio.com/products/rstudio/download/#download 
@@ -29,3 +31,4 @@ teamviewer	https://www.teamviewer.com/es/descarga/windows/
 viscosity 	https://www.sparklabs.com/viscosity/download/ 
 
 zoom	      https://zoom.us/download 
+
