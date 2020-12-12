@@ -16,7 +16,7 @@ dropbox 	  https://www.dropbox.com/es/downloading
 
 gephi	      https://gephi.org/users/download/ 
 
-gitHub	    https://desktop.github.com/ 
+github	    https://desktop.github.com/ 
 
 mapinstall  https://www8.garmin.com/support/download_details.jsp?id=3291    
 
