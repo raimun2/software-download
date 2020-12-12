@@ -1,5 +1,7 @@
 # software-download
-This repository is just a list of download sites for my prefered productivity tools. Hope to build docker images sometime soon. Still missing the library scraping and intallation.
+this repository is just a list of download sites for my prefered productivity tools. i use it to setup new machines.
+
+to do:  dockerize - library scraping and installation.
 
 
 ableton	    https://www.ableton.com/en/products/live-lite/ 
