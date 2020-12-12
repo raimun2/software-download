@@ -12,6 +12,8 @@ dbeaver	    https://dbeaver.io/download/
 
 discord   	https://discord.com/download 
 
+drive       https://www.google.com/drive/download/
+
 dropbox 	  https://www.dropbox.com/es/downloading 
 
 gephi	      https://gephi.org/users/download/ 
