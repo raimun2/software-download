@@ -1,10 +1,7 @@
 # software-download
-this repository is just a list of download sites for my prefered productivity tools. i use it to setup new machines.
+this repository is a list of download sites for my current productivity tools. i use it to setup new machines.
 
-to do:  dockerize - library scraping and installation.
-
-
-ableton	    https://www.ableton.com/en/products/live-lite/ 
+ableton	    https://www.ableton.com/en/products/live-standard/ 
 
 chrome	    https://www.google.com/intl/es-419/chrome/ 
 
