@@ -5,11 +5,11 @@ ableton	    https://www.ableton.com/en/products/live-standard/
 
 chrome	    https://www.google.com/intl/es-419/chrome/ 
 
-dbeaver	    https://dbeaver.io/download/ 
+capcut      https://www.capcut.com/tools/desktop-video-editor
 
 discord   	https://discord.com/download 
 
-drive       https://www.google.com/drive/download/
+drive       https://workspace.google.com/products/drive/#download
 
 dropbox 	  https://www.dropbox.com/es/downloading 
 
@@ -19,9 +19,9 @@ mapinstall  https://www8.garmin.com/support/download_details.jsp?id=3291
 
 r	          https://cran.r-project.org/bin/windows/base/ 
 
-rstudio 	  https://rstudio.com/products/rstudio/download/#download 
+positron 	  https://positron.posit.co/download.html 
 
-spotify	    https://www.spotify.com/cl/download/other/ 
+zoom	       https://zoom.us/download 
 
-zoom	      https://zoom.us/download 
+emlid studio https://emlid.com/emlid-studio/
 
